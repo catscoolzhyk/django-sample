@@ -13,7 +13,7 @@ SECRET_KEY = env.str('SECRET_KEY')
 
 DEBUG = env.bool('DEBUG')
 
-ALLOWED_HOSTS = ['https://rbk-django-learn.herokuapp.com/']
+ALLOWED_HOSTS = ['rbk-django-learn.herokuapp.com']
 
 
 # Application definition
